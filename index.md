@@ -1,4 +1,4 @@
-## Welcome to Mr. Bowman's website
+## American Fork High School Computer Science
 
 This website is where you can find project information for your Computer Science class.
 
@@ -12,4 +12,3 @@ Click on your class below:
 * [Computer Science Principles](./csp/home.md)
 * [AP Computer Science Principles](./ap_csp/home.md)
 * [Video Game Design](./vgd/home.md)
-S
