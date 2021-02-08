@@ -1,120 +1,32 @@
 # Programming 1
-Projects that align with the [Utah standards for Programming 1](./documents/cp1_standards.pdf)
 
-## Table of Contents:
+[Click here to view the Utah standards for this class](./standard_alignment.md)
 
-* [Strand 1 - Using IDEs](#Strand-1)
-* [Strand 2 - Program Development Methodology](#Strand-2)
-* [Strand 3 - Using Commands and Operations](#Strand-3)
-* [Strand 4 - Control Structures and Loops](#Strand-4)
-* [Strand 5 - Career Opportunities](#Strand-5)
+## Projects & Tutorials
+This is a list of programming projects and tutorials designed for students enrolled in Programming 1. They are divided into beginner, intermediate, and advanced categories, relative to the expected skill level of beginning programming students.
 
-## Strand 1
-Students will be familiar with and use a programming language IDE (Integrated Development Environment)
+### Beginner
+#### Tutorials
+##### Compiled vs Interpreted Languages
+* [The Difference Between Compiled and Interpreted Languages](https://medium.com/young-coder/the-difference-between-compiled-and-interpreted-languages-d54f66aa71f0)
+* [Difference between Compiled and Interpreted Language](https://www.geeksforgeeks.org/difference-between-compiled-and-interpreted-language/)
 
-### Standard 1
-Demonstrate concept knowledge of different languages.
-* Describe the difference between interpreted and compiled languages
-* Identify characteristics of high-level and low-level languages
+##### High level vs Low level languages
+* [Difference between High Level and Low level languages](https://www.geeksforgeeks.org/difference-between-high-level-and-low-level-languages/)
+* [High-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language)
+* [Low-level programming language](https://en.wikipedia.org/wiki/Low-level_programming_language)
 
-### Standard 2
-Demonstrate the ability to use an IDE.
-* Use an IDE to develop, compile, and run programs
-* Understand the difference between syntax, run-time, and logic errors
-* Use the debugger to identify errors
+##### Integrated Development Environments
+* [What is an IDE (Integrated Development Environment)?](https://en.wikipedia.org/wiki/Integrated_development_environment)
+* [Best IDEs for Python](https://realpython.com/python-ides-code-editors-guide/)
 
-### Curriculum
-[Click Here](./projects/strand_one/projects_s1.md) for Strand 1 curriculum resources.
+##### Types of programming errors
+* [Common Program Errors](https://www.openbookproject.net/thinkcs/python/english2e/app_a.html)
 
-## Strand 2
-Students will understand program development methodology
+##### Using the Python Debugger
+* [Python Debugging with Pdb](https://realpython.com/python-debugging-pdb/)
+* [How to use the Python Debugger](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger)
 
-### Standard 1
-Demonstrate the ability to use good programming style
-* Demonstrate proper use of white space (between lines and indentation)
-* Use appropriate naming conventions for identifiers (variables, methods, functions, and file names)
-* Construct identifiers with meaningful format; camelCase and under_score
-
-### Standard 2
-Understand the software development lifecycle
-* Identify specifications and understand requirements to create a solution to a problem
-* Develop a program using external documentation (flowcharts, abstracts, and pseudocode) to break down the problem into sub-components
-* Design solutions using algorithms
-* Test program for verification of errors and proper functionality
-* Provide internal comments in the IDE that explain functionality through documentation
-* Redo all steps as needed
-
-### Standard 3
-Identify the components of programming language syntax
-* Understand keywords, identifiers, operators, and operands
-* Understand statements and expressions in a program
-* Understand program components such as functions, methods, or procedures
-
-### Curriculum
-[Click Here](./projects/strand_two/projects_s2.md) for Strand 2 curriculum resources.
-
-## Strand 3
-Students will demonstrate effective use of commands and operations
-
-### Standard 1
-Employ basic use of elements and data types of a programming language
-* Declare, initialize, and assign values to constants and variables
-* Demonstrate the ability to use input and output commands
-* Declare and use variable types (primitives, reference, or object)
-* Identify proper data types for a specified application (boolean, int, float, point, str)
-
-### Standard 2
-Employ basic arithmetic expressions
-* Use basic arithmetic operators (modulus, multiplication, division, addition, subtraction)
-* Understand order of operation of expressions
-* Write expressions that mix float and int expressions
-
-### Curriculum
-[Click Here](./projects/strand_three/projects_s3.md) for Strand 3 curriculum resources.
-
-## Strand 4
-Students will properly employ control and loop structures
-
-### Standard 1
-Demonstrate the ability to use relational and logical operators in programs
-* Compare values using relational operators (<, >, ==, <=, >=, etc.)
-* Form complex expressions using logical operators
-
-### Standard 2
-Demonstrate the ability to use decisions in programs
-* Employ simple if structures
-* Use if-else and nested if-else structures
-
-### Standard 3
-Demonstrate the ability to use loops in programs
-* Demonstrate knowledge between for loops, while loops, and do while loops
-* Describe the various ways that loops can end (i.e. sentinel, break, condition fail, etc.)
-* Design loops so they iterate the correct number of times (i.e. off-by-one errors, infinite loops, etc.)
-* Utilize nested loops
-
-### Curriculum
-[Click Here](./projects/strand_four/projects_s4.md) for Strand 4 curriculum resources.
-
-## Strand 5
-Students will be aware of career opportunities in the Computer Programming/Software Engineering industry and ethical applications
-
-### Standard 1
-Investigate career opportunities, trends, and requirements related to computer programming/software engineering careers
-* Identify the members of a computer programming/software engineering team:
-  * Team leader
-  * Analyst
-  * Senior developer
-  * Junior developer
-  * Client/subject matter expert
-* Describe work performed by each member of the computer programming/software engineering team
-* Investigate trends and traits associated with computer programming/software engineering careers
-* Discuss related career pathways
-
-### Standard 2
-Have an understanding of current ethical issues dealing with computer programming and information in society
-* Explain the impact software can have on society (i.e. privacy, piracy, copyright laws, etc.)
-* Explain the ethical reasons for creating reliable and robust software
-* Describe how computer-controlled automation affects a workplace and society
-
-### Curriculum
-[Click Here](./projects/strand_five/projects_s5.md) for Strand 5 curriculum resources.
+#### Projects
+* [Hello World](./projects/projects/hello_world.md)
+* [Hello, Harry!](./projects/projects/hi_harry.md)
