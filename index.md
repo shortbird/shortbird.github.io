@@ -2,8 +2,6 @@
 
 This website is where you can find project information for your Computer Science class.
 
-### Table of Contents
-
 Click on your class below:
 
 * [Programming 1](./cp1/home.md)

@@ -1,11 +1,8 @@
-# Strand 3 Curriculum Resources
-Curriculum resources that align with the Utah standards for Programming 1 - Strand 3
+# Computer Programming 1 Projects
 
-## Tutorials
-
-## Resources
-
-## Projects
+## Beginner
+* [Hello World](./projects/hello_world.md)
+* [Hello, Harry!](./projects/hi_harry.md)
 * [Sum Three Numbers](./projects/sum_three.md)
 * [Square Number](./projects/square.md)
 * [Area of Triangle](./projects/area_triangle.md)
