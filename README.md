@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Mr. Bowman's website
 
-You can use the [editor on GitHub](https://github.com/shortbird/shortbird.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website is where you can find project information for your Computer Science class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Table of Contents
 
-### Markdown
+Click on your class below:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shortbird/shortbird.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Programming 1](./cp1/home.md)
+* [Programming 2](./cp2/home.md)
+* [Programming 3](./cp3/home.md)
+* [Computer Science Principles](./csp/home.md)
+* [AP Computer Science Principles](./ap_csp/home.md)
+* [Video Game Design](./vgd/home.md)
