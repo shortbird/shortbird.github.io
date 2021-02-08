@@ -6,13 +6,13 @@ Write a program that takes one number as input - the number of minutes that have
 ## Example
 **Input**
 ```
-180 # minutes since midnight
+180   # minutes since midnight
 ```
 
 **Output**
 ```
-3 # hours
-0 # minutes
+3     # hours
+0     # minutes
 ```
 
 ## Hints

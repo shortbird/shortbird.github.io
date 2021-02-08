@@ -1,8 +1,10 @@
 # Computer Programming 1 Projects
 
-## Beginner
+## Input/Printing
 * [Hello World](./projects/hello_world.md)
 * [Hello, Harry!](./projects/hi_harry.md)
+
+## Math Problems
 * [Sum Three Numbers](./projects/sum_three.md)
 * [Square Number](./projects/square.md)
 * [Area of Triangle](./projects/area_triangle.md)
@@ -23,3 +25,11 @@
 * [Cupcake Cost](./projects/total_cost.md)
 * [Century](./projects/century.md)
 * [Sloth Climbing](./projects/sloth.md)
+
+## If/else Statements
+
+## While loops
+
+## For loops
+
+## Do-while loops

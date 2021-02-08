@@ -6,13 +6,13 @@ Write a Python program that takes two numbers as input - the length of the base 
 ## Example
 **Input**
 ```
-6
-10
+6   # base of triangle
+10  # height of triangle
 ```
 
 **Output**
 ```
-30
+30  # area of triangle - 1/2 * base * height
 ```
 
 ## Hints

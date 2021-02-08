@@ -7,14 +7,14 @@ Your school is replacing the desks in three classrooms. One desk can seat two st
 ## Example
 **Input**
 ```
-23
-25
-19
+23  # number of students in classroom one
+25  # number of students in classroom two
+19  # number of students in classroom three
 ```
 
 **Output**
 ```
-35
+35  # minimum number of desks that should be ordered
 ```
 
 ## Hints

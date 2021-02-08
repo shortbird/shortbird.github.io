@@ -6,12 +6,12 @@ Assume 0 - Sunday, 1 - Monday, 2 - Tuesday and so on. Given a number between 1 a
 ## Example
 **Input**
 ```
-205
+205 # refers to the 205th day of the year
 ```
 
 **Output**
 ```
-5
+5   # when January 1 is a Thursday, the 205th day of the year is a Friday - the 5th day of the week
 ```
 
 ## Hints

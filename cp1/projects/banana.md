@@ -11,14 +11,14 @@ The program should split the bananas evenly among the group, leaving the remaini
 ## Example
 **Input**
 ```
-5
-17
+5   # number of people in the group
+17  # number of bananas
 ```
 
 **Output**
 ```
-3
-2
+3   # how many bananas each person gets
+2   # how many bananas are left in the basket
 ```
 
 ## Hints

@@ -6,7 +6,7 @@ Write a program that takes a year as the input. Print the century that year occu
 ## Example
 **Input**
 ```
-1957
+1957 
 ```
 
 **Output**
