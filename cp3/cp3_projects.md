@@ -1,7 +1,7 @@
 # Computer Programming 3 Projects
 
 ## Complex Applications
-* [Pig Latin](.../projects/pig_latin.md)
+* [Pig Latin](../projects/pig_latin.md)
 * [Dice Rolling Simulator](../projects/dice_roller.md)
 * [Hang Man Game](../projects/hang_man.md)
 * Develop complex applications using control structures (loops, if/else, etc.)
@@ -39,5 +39,5 @@
 * TODO: [Queues](../projects/queues.md)
 
 ## Object-Oriented Programming
-* [Object-Oriented Programming](../projects/strand_one/basic_oop.md)
+* [Object-Oriented Programming](../projects/basic_oop.md)
 * [Advanced Object-Oriented Programming](../projects/adv_oop.md)
