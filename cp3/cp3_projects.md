@@ -1,7 +1,7 @@
 # Computer Programming 3 Projects
 
 ## Complex Applications
-* [Pig Latin](./projects/pig_latin.md)
+* [Pig Latin](../projects/pig_latin.md)
 * [Dice Rolling Simulator](./projects/dice_roller.md)
 * [Hang Man Game](./projects/hang_man.md)
 * Develop complex applications using control structures (loops, if/else, etc.)
